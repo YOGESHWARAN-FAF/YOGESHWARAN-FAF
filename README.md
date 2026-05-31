@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshwaran-faf" alt="yogeshwaran-faf" /></a> </p>
 
-- 🔭 I’m currently working on [TRAKER-GENZ](https://github.com/YOGESHWARAN-FAF/TRAKER-GENZ.git)
+-  I’m currently working on [TRAKER-GENZ](https://github.com/YOGESHWARAN-FAF/TRAKER-GENZ.git)
 
-- 🌱 I’m currently learning **AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, Linux Administration, Prometheus, Grafana, and Cloud Security.**
+-  I’m currently learning **AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, Linux Administration, Prometheus, Grafana, and Cloud Security.**
 
-- 👯 I’m looking to collaborate on **Cloud Computing, DevOps, AI Automation, and Open Source Projects.**
+-  I’m looking to collaborate on **Cloud Computing, DevOps, AI Automation, and Open Source Projects.**
 
-- 🤝 I’m looking for help with **Advanced Kubernetes,Jenkins, Terraform, Cloud Security, and Production-Grade DevOps Architectures.**
+-  I’m looking for help with **Advanced Kubernetes,Jenkins, Terraform, Cloud Security, and Production-Grade DevOps Architectures.**
 
-- 🎯Just rate my experience - Achievements - Google Gemini Student Ambassador passionate about AI and innovation. Winner of the VCET National-Level Hackathon (₹50,000) and KPR College Hackathon (₹10,000). Secured Runner-Up positions in the SVCE National-Level Hackathon (₹10,000) and CATCH Hackathon 2025. Received the Best Innovation Award from Sengundar Engineering College and won a Technical Project Competition with a ₹5,000 prize. Successfully won multiple Project Expo competitions by presenting innovative solutions. Published a research paper showcasing technical and analytical skills. Experienced in building AI-powered, automation, and cloud-based applications. Strong background in teamwork, leadership, and problem-solving through competitive events. Currently focused on Cloud Computing, DevOps, AI, and Automation technologies.
+- Just rate my experience - Achievements - Google Gemini Student Ambassador passionate about AI and innovation. Winner of the VCET National-Level Hackathon (₹50,000) and KPR College Hackathon (₹10,000). Secured Runner-Up positions in the SVCE National-Level Hackathon (₹10,000) and CATCH Hackathon 2025. Received the Best Innovation Award from Sengundar Engineering College and won a Technical Project Competition with a ₹5,000 prize. Successfully won multiple Project Expo competitions by presenting innovative solutions. Published a research paper showcasing technical and analytical skills. Experienced in building AI-powered, automation, and cloud-based applications. Strong background in teamwork, leadership, and problem-solving through competitive events. Currently focused on Cloud Computing, DevOps, AI, and Automation technologies.
 
-- 🚀 What Drives Me? [I am passionate about solving real-world problems through technology. Whether it's AI, automation, cloud infrastructure, or innovative hackathon projects, I enjoy learning, building, and continuously improving my skills.](I am passionate about solving real-world problems through technology. Whether it's AI, automation, cloud infrastructure, or innovative hackathon projects, I enjoy learning, building, and continuously improving my skills.)
+-  What Drives Me? -I am passionate about solving real-world problems through technology. Whether it's AI, automation, cloud infrastructure, or innovative hackathon projects, I enjoy learning, building, and continuously improving my skills.](I am passionate about solving real-world problems through technology. Whether it's AI, automation, cloud infrastructure, or innovative hackathon projects, I enjoy learning, building, and continuously improving my skills.
 
 - 💬 Ask me about **AWS, Linux, Docker, Kubernetes, Terraform, DevOps, Python Automation, AI Agents, N8N, and Cloud Engineering.**
 
