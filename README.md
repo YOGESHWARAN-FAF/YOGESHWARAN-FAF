@@ -1,37 +1,139 @@
-<h1 align="center">Hi 👋, I'm YOGESHWARAN M</h1>
-<h3 align="center">A passionate CLOUD&AUTOMATION developer from India</h3>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeshwaran-faf&label=Profile%20views&color=0e75b6&style=flat" alt="yogeshwaran-faf" /> </p>
+<h3 align="center">☁️ Cloud & DevOps Engineer | 🤖 Google Gemini Student Ambassador | 🏆 Hackathon Winner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogeshwaran-faf" alt="yogeshwaran-faf" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=800&lines=Cloud+Engineer;DevOps+Enthusiast;Google+Gemini+Student+Ambassador;Hackathon+Winner+%7C+Research+Paper+Author;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+Jenkins;Building+AI+%26+Automation+Solutions" />
+</div>
 
--  I’m currently working on [TRAKER-GENZ](https://github.com/YOGESHWARAN-FAF/TRAKER-GENZ.git)
+###
 
--  I’m currently learning **AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, Linux Administration, Prometheus, Grafana, and Cloud Security.**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="kubernetes logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=terraform" height="60" alt="terraform logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ansible" height="60" alt="ansible logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo" />
+</div>
 
--  I’m looking to collaborate on **Cloud Computing, DevOps, AI Automation, and Open Source Projects.**
+###
 
--  I’m looking for help with **Advanced Kubernetes,Jenkins, Terraform, Cloud Security, and Production-Grade DevOps Architectures.**
+<div align="center">
+  <a href="https://www.linkedin.com/in/yogeshwaran-m">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-- Just rate my experience - Achievements - Google Gemini Student Ambassador passionate about AI and innovation. Winner of the VCET National-Level Hackathon (₹50,000) and KPR College Hackathon (₹10,000). Secured Runner-Up positions in the SVCE National-Level Hackathon (₹10,000) and CATCH Hackathon 2025. Received the Best Innovation Award from Sengundar Engineering College and won a Technical Project Competition with a ₹5,000 prize. Successfully won multiple Project Expo competitions by presenting innovative solutions. Published a research paper showcasing technical and analytical skills. Experienced in building AI-powered, automation, and cloud-based applications. Strong background in teamwork, leadership, and problem-solving through competitive events. Currently focused on Cloud Computing, DevOps, AI, and Automation technologies.
+  <a href="mailto:yogeshwaranm2322006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
--  What Drives Me? -I am passionate about solving real-world problems through technology. Whether it's AI, automation, cloud infrastructure, or innovative hackathon projects, I enjoy learning, building, and continuously improving my skills.](I am passionate about solving real-world problems through technology. Whether it's AI, automation, cloud infrastructure, or innovative hackathon projects, I enjoy learning, building, and continuously improving my skills.
+  <a href="https://github.com/YOGESHWARAN-FAF">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-- 💬 Ask me about **AWS, Linux, Docker, Kubernetes, Terraform, DevOps, Python Automation, AI Agents, N8N, and Cloud Engineering.**
+  <a href="https://leetcode.com/yogifaf03">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</div>
 
-- 📫 How to reach me **yogeshwaranm2322006@gmail.com**
+###
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pEkRxKmNlw1j8ydx-4-8G_Fanl4FJj_a/view?usp=sharing](https://drive.google.com/file/d/1pEkRxKmNlw1j8ydx-4-8G_Fanl4FJj_a/view?usp=sharing)
+<div align="center">
 
-- ⚡ Fun fact **I love solving real-world problems with code, coffee, and a tight deadline.**
+🔭 Currently Building **TRAKER-GENZ**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yogeshwaran .m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yogeshwaran .m" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yogifaf03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogifaf03" height="30" width="40" /></a>
-</p>
+🌱 Learning **AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions & Cloud Security**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🤝 Open to Collaborate on **Cloud Computing, DevOps, AI Automation & Open Source Projects**
 
+💬 Ask Me About **AWS, Linux, Docker, Kubernetes, Terraform, Python Automation & Cloud Engineering**
 
+📫 Reach Me At **[yogeshwaranm2322006@gmail.com](mailto:yogeshwaranm2322006@gmail.com)**
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOGESHWARAN-FAF&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOGESHWARAN-FAF&theme=dracula&row=2&column=4" height="150" />
+</div>
+
+###
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+
+🤖 Google Gemini Student Ambassador
+
+🥇 Winner – VCET National-Level Hackathon (₹50,000)
+
+🥇 Winner – KPR College Hackathon (₹10,000)
+
+🥈 Runner-Up – SVCE National-Level Hackathon (₹10,000)
+
+🥈 Runner-Up – CATCH Hackathon 2025
+
+🏅 Best Innovation Award – Sengundar Engineering College
+
+🥇 Winner – Technical Project Competition (₹5,000)
+
+🏆 Winner – Multiple Project Expo Competitions
+
+📄 Published Research Paper Author
+
+</div>
+
+###
+
+<h2 align="center">🚀 What Drives Me</h2>
+
+<div align="center">
+
+Passionate about solving real-world problems through AI, Automation, Cloud Computing, and DevOps technologies. I enjoy transforming innovative ideas into scalable solutions, participating in hackathons, and continuously learning emerging technologies.
+
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+###
+
+<h2 align="center">⚡ Fun Fact</h2>
+
+<div align="center">
+
+I love turning innovative ideas into real-world AI, Cloud, and Automation solutions—and several of them have gone on to win hackathons.
+
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOGESHWARAN-FAF&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOGESHWARAN-FAF&layout=compact&theme=tokyonight" height="165" />
+</div>
