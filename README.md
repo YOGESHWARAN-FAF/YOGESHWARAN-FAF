@@ -3,7 +3,7 @@
 <h3 align="center">☁️ Cloud & DevOps Engineer | Google Gemini Student Ambassador |  Hackathon Winner</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=800&lines=Cloud+Engineer;DevOps+Enthusiast;Google+Gemini+Student+Ambassador+%7C+Hackathon+Winner+linux+specialist;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+Jenkins;Building+AI+%26+Automation+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=800&lines=Cloud+Engineer;DevOps+Enthusiast;Google+Gemini+Student+Ambassador+%7C+Hackathon+Winner;linux+specialist;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+Jenkins;Building+AI+%26+Automation+Solutions" />
 </div>
 
 ###
