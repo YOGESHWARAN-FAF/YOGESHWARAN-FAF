@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
-<h3 align="center">☁️ Cloud & DevOps Engineer | 🤖 Google Gemini Student Ambassador | 🏆 Hackathon Winner</h3>
+<h3 align="center">☁️ Cloud & DevOps Engineer | Google Gemini Student Ambassador |  Hackathon Winner</h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=800&lines=Cloud+Engineer;DevOps+Enthusiast;Google+Gemini+Student+Ambassador;Hackathon+Winner+%7C+Research+Paper+Author;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+Jenkins;Building+AI+%26+Automation+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=800&lines=Cloud+Engineer;DevOps+Enthusiast;Google+Gemini+Student+Ambassador;Hackathon+Winner+%7C+linux+specialist;AWS+%7C+Docker+%7C+Kubernetes;Terraform+%7C+Ansible+%7C+Jenkins;Building+AI+%26+Automation+Solutions" />
 </div>
 
 ###
@@ -133,7 +133,4 @@ I love turning innovative ideas into real-world AI, Cloud, and Automation soluti
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOGESHWARAN-FAF&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOGESHWARAN-FAF&layout=compact&theme=tokyonight" height="165" />
-</div>
+
