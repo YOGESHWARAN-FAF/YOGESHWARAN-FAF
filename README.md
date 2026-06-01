@@ -66,6 +66,8 @@
 
 💬 Ask Me About **AWS, Linux, Docker, Kubernetes, Terraform, Python Automation & Cloud Engineering**
 
+📄 Know about my experiences [https://drive.google.com/file/d/1pEkRxKmNlw1j8ydx-4-8G_Fanl4FJj_a/view?usp=sharing](https://drive.google.com/file/d/1pEkRxKmNlw1j8ydx-4-8G_Fanl4FJj_a/view?usp=sharing)
+
 📫 Reach Me At **[yogeshwaranm2322006@gmail.com](mailto:yogeshwaranm2322006@gmail.com)**
 
 </div>
@@ -98,8 +100,6 @@
 🥇 Winner – Technical Project Competition (₹5,000)
 
 🏆 Winner – Multiple Project Expo Competitions
-
-📄 Published Research Paper Author
 
 </div>
 
