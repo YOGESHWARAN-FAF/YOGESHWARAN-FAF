@@ -66,7 +66,7 @@
 
 💬 Ask Me About **AWS, Linux, Docker, Kubernetes, Terraform, Python Automation & Cloud Engineering**
 
-📄 Know about my experiences [https://drive.google.com/file/d/1pEkRxKmNlw1j8ydx-4-8G_Fanl4FJj_a/view?usp=sharing](https://drive.google.com/file/d/1pEkRxKmNlw1j8ydx-4-8G_Fanl4FJj_a/view?usp=sharing)
+📄 Know about my experiences [https://drive.google.com/file/d/1pEkRxKmNlw1j8ydx-4-8G_Fanl4FJj_a/view?usp=sharing](https://drive.google.com/file/d/1bxXe1PmoSSK3iyR3fo4RkJOT9FCnxAJ4/view?usp=sharing)
 
 📫 Reach Me At **[yogeshwaranm2322006@gmail.com](mailto:yogeshwaranm2322006@gmail.com)**
 
